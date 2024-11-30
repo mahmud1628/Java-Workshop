@@ -10,6 +10,6 @@ public class Input {
 
         System.out.println(a);
 
-        double d = 
+        double d = // incomplete code
     }
 }
