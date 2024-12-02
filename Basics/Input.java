@@ -1,15 +1,21 @@
+package Basics;
+
 import java.util.Scanner;
 
 public class Input {
     public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
+        Scanner scanner = new Scanner(System.in);
 
-        int a;
+//        int a = scanner.nextInt();
+//
+//        System.out.println(a);
 
-        a = sc.nextInt();
+//        double d = scanner.nextDouble();
+//
+//        System.out.println(d);
 
-        System.out.println(a);
+        String s = scanner.nextLine();
 
-        double d = // incomplete code
+        System.out.println(s);
     }
 }
